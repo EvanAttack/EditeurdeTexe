@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd050a40-46ab-46bc-80eb-243704e8fe24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/factory/CommandeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/factory/CommandeFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/document/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/document/Document.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/fr/iut/editeur/commande/factory/CommandeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fr/iut/editeur/commande/factory/CommandeFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/fr/iut/editeur/document/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fr/iut/editeur/document/Document.class" afterDir="false" />
@@ -86,7 +87,7 @@
       <updated>1725365951625</updated>
       <workItem from="1725365952725" duration="459000" />
       <workItem from="1725366427096" duration="1388000" />
-      <workItem from="1725368385011" duration="302000" />
+      <workItem from="1725368385011" duration="341000" />
     </task>
     <servers />
   </component>
