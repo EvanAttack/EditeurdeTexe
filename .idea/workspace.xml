@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd050a40-46ab-46bc-80eb-243704e8fe24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/factory/CommandeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/factory/CommandeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/document/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/document/Document.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,22 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/evan/Documents/editeur-de-texte&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.Javadoc.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing master",
+    "ignore_missing_gitignore": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/evan/Documents/editeur-de-texte",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Maven.Javadoc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.iut.editeur.Main" />
       <module name="EditeurDeTexte" />
@@ -62,6 +65,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Javadoc" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javadoc::javadoc" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Maven.Javadoc" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -90,6 +127,7 @@
       <workItem from="1725369055138" duration="60000" />
       <workItem from="1725602760756" duration="235000" />
       <workItem from="1725603566939" duration="755000" />
+      <workItem from="1726037142771" duration="1838000" />
     </task>
     <servers />
   </component>

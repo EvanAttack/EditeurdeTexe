@@ -2,6 +2,12 @@ package fr.iut.editeur.commande;
 
 import fr.iut.editeur.document.Document;
 
+/**
+ * CommandeRemplacer
+ *
+ * Commande permettant de remplacer une partie du texte
+ */
+
 public class CommandeRemplacer extends CommandeDocument  {
 
     public CommandeRemplacer(Document document, String[] parameters) {
